@@ -7,6 +7,7 @@ public class GitDemo {
 		System.out.println("0607 i get it");
 		System.out.println("gitserver update 03");
 		System.out.println("Local0607 request======20170107");
+		System.out.println("Local0607 mytest");
 
 	}
 
