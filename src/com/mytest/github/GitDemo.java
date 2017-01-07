@@ -5,6 +5,7 @@ public class GitDemo {
 	public static void main(String[] args) {
 		System.out.println("0607测试github 01");
 		System.out.println("0607 i get it");
+		System.out.println("gitserver update 03");
 
 	}
 
